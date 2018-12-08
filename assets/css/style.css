@@ -3,6 +3,21 @@
 
 }
 
+a:link {
+    color: #777777;
+    text-decoration: none;
+
+  }
+  
+a:visited {
+    color: #777777;
+    text-decoration: none;
+  }
+  
+a:hover {
+    color: blue;
+  }
+
 h2 {
     font-family: 'Georgia', Times, Times New Roman, serif;
     color: #4aaaa5;
@@ -33,6 +48,7 @@ header {
 
 body {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
     background-image: url(../images/diagonal-squares.png);
    
     
@@ -108,6 +124,7 @@ body {
 #btn {
     background-color:  #4aaaa5;
     color: white;
+    padding: 5px 15px;
 }
 .spacer{
     width: 960px;
