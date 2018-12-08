@@ -30,7 +30,8 @@ footer {
     background-color: #777777;
     width: 100%; 
     text-align: center;
-    padding-top: 9px;
+    padding-top: 12px;
+    color: lightgray;
 }
 
 header {
@@ -156,7 +157,7 @@ body {
     background-color:  #4aaaa5;
     max-width: 200px;
     bottom: 113px;
-    left: 330px;
+    left: 325px;
     position: relative;
     color: white;
     padding-top: 10px;
@@ -167,7 +168,7 @@ body {
     background-color:  #4aaaa5;
     max-width: 200px;
     bottom: 156px;
-    left: 630px;
+    left: 620px;
     position: relative;
     color: white;
     padding-top: 10px;
@@ -190,7 +191,7 @@ body {
      background-color:  #4aaaa5;
      max-width: 200px;
      bottom: 113px;
-     left: 330px;
+     left: 325px;
      position: relative;
      color: white;
      padding-top: 10px;
@@ -201,7 +202,7 @@ body {
      background-color:  #4aaaa5;
      max-width: 200px;
      bottom: 156px;
-     left: 630px;
+     left: 620px;
      position: relative;
      color: white;
      padding-top: 10px;
